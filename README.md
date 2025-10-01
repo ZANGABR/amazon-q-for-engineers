@@ -134,6 +134,14 @@ Port this fraction of Java code into Python and explain the differences.
 
 ---
 
+### 6. Refactoring & Microservices
+
+- Break down monolithic components into services.
+- Example: transform a repository feature into an AWS Lambda microservice.
+- Useful for planning modernization projects or experimenting with serverless patterns.
+
+---
+
 ### Benefits for Frontend Engineers
 
 Even if you spend most of your time in React, Remix, or UI systems, Amazon Q provides benefits:
