@@ -144,6 +144,8 @@ Even if you spend most of your time in React, Remix, or UI systems, Amazon Q pro
 - "Migrate this code from Java to Rust and explain the differences."
 - "Port this logic to Python and add comments for a frontend engineer to understand."
 
+For a full library of prompts (covering comprehension, debugging, migration, refactoring, and even fun code reviews), see [PROMPTS.md](./PROMPTS.md).
+
 ---
 
 ### Time Savings & Impact
