@@ -59,6 +59,17 @@ Amazon Q isn’t just for AWS operators — it’s an everyday assistant for eng
 Explain this project’s architecture and the role of each main class.
 ```
 
+#### Rules & Context
+
+Amazon Q can apply project-specific [rules](https://aws.amazon.com/blogs/devops/mastering-amazon-q-developer-with-rules/) automatically (e.g., files in `.amazonq/rules`) without you needing to reference them directly.  
+You can also scope Q with mentions:
+
+- `@workspace` → consider the whole project
+- `@file` → focus on the selected file
+- `@folder` → focus on a specific folder
+
+This makes it easier to get relevant answers without overloading context manually.
+
 ---
 
 ### 2. Debugging & Testing
